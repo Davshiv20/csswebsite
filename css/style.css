@@ -1,0 +1,122 @@
+body{
+    background-color:#7FBCD2;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;;
+    font-size: 1.5rem;
+}
+h1{
+    font-size: 4rem;
+    width:10%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+    margin-top: 2rem;
+    
+}
+.top{
+    font-size: 2.5rem;
+    background-color:#7FBCD2;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding: 20px;
+    text-shadow: #85F4FF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10rem;
+    
+}
+.sh
+{
+        
+    height:200px;
+    width:200px;
+    margin-bottom: 0px;
+}
+.dv
+{
+    background-color: #CD0404;
+    height:200px;
+    width:200px;
+    margin-top: 0;
+}
+.cs{
+    text-decoration: underline;
+}
+/*.images{
+
+}*/
+.container{
+    position:relative;
+
+    /*padding-top:10px;*/
+    /*background-color: #A084DC;*/
+}
+.upper_cloud{
+    position:absolute;
+    right:400px;
+}
+.bottom_cloud{
+    position:absolute;
+    left:400px;
+    
+}
+.skills{
+    color:#354259;
+    
+}
+.Football{
+    color:#1B2430;
+    margin-top: -1rem;
+    /* padding-top: 100px; */
+    margin-left: 30rem;
+    font-size: 1.5rem;
+}   
+.footballpara{
+
+    padding-left:36rem;
+    margin-top:-12rem;
+    font-size:1.35rem;
+} 
+.foot{
+    padding-right: 10rem;
+}
+.Foothead{
+    padding-left: 30rem;
+    font-size: 1.5rem;
+}
+.Codehead
+{
+    font-size:1.5rem;
+    padding-left: 10rem;
+}
+
+.Coding{
+    color:#1B2430;
+    padding-right:40rem;
+    margin-top:-20rem;
+    width:45%;
+    margin-bottom:5rem;
+    font-size: 1.5rem;
+}
+.codephoto{
+    padding-right:40rem;
+}
+.codepara{
+    margin-top:-10rem;
+    margin-left:10rem;
+    font-size:1.35rem;
+}
+
+hr{
+    height: 0px;
+    width: 100%;
+    border-style:   dotted none none;
+    border-color:#205E61;
+    border-width: 10px;
+     width: 5%;    
+    
+}
+.contact-me{
+    color:#25316D;
+}
